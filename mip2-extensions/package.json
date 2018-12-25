@@ -11,6 +11,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "mip2": "^1.4.3"
+    "mip2": "^1.5.1"
   }
 }

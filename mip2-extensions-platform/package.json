@@ -11,7 +11,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "mip2": "^1.4.3",
+    "mip2": "^1.5.1",
     "async": "^2.6.1",
     "execa": "^0.10.0"
   }
