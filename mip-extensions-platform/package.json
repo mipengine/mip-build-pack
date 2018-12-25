@@ -1,0 +1,17 @@
+{
+    "name": "mip-platform-online",
+    "version": "1.0.0",
+    "description": "mip-extensions-platform online module.",
+    "main": "index.js",
+    "scripts": {
+      "build": "sh ./build.sh"
+    },
+    "keywords": [
+      "mip-extensions-platform",
+      "online"
+    ],
+    "license": "MIT",
+    "dependencies": {
+      "mip-extension-optimizer": "^1.1.3"
+    }
+  }
