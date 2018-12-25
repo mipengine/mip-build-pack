@@ -1,0 +1,16 @@
+{
+    "name": "mip2-extensions-deploy",
+    "version": "1.0.0",
+    "description": "部署 mip 2.0 官方组件",
+    "scripts": {
+      "build": "sh ./scripts/build.sh"
+    },
+    "keywords": [
+      "mip2-extensions-deploy",
+      "online"
+    ],
+    "license": "MIT",
+    "dependencies": {
+      "mip2": "^1.4.3"
+    }
+  }
