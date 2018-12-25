@@ -1,0 +1,9 @@
+#!/bin/bash
+version=v1
+
+MIP_URL=https://github.com/mipengine/mip.git
+EXTENSIONS_URL=https://github.com/mipengine/mip-extensions.git
+
+compile_path=../../mip_online/.mip_compile
+
+mip_code_path=../../mip_online/mip_code
